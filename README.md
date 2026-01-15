@@ -3,12 +3,16 @@
 Streamlit app that predicts emotions (joy, sadness, anger, fear, surprise) from text using a fine-tuned XLM-R model.
 
 ## Demo 
-https://github.com/user-attachments/assets/dfa0f508-1bab-499c-bc10-518b20add131
+https://github.com/user-attachments/assets/6c17e7da-589a-4010-a732-33e86aa692c0
 
 ## Prerequisites
 
 - Python 3.9+ (3.10 or 3.11 recommended)
 - Git
+
+https://github.com/user-attachments/assets/d92581b8-acd1-48d6-862e-a0ded0534b25
+
+
 - Git LFS (required for the model weights)
 
 ## Setup (first time only)
